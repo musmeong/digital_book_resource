@@ -50,6 +50,16 @@
     ]
   },
   {
+    "objectID": "section-one/index.html",
+    "href": "section-one/index.html",
+    "title": "Section One",
+    "section": "",
+    "text": "Overview of section one.",
+    "crumbs": [
+      "Section One"
+    ]
+  },
+  {
     "objectID": "section-one/details.html",
     "href": "section-one/details.html",
     "title": "4  Wadidaw",
@@ -58,6 +68,16 @@
     "crumbs": [
       "Section One",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Wadidaw</span>"
+    ]
+  },
+  {
+    "objectID": "section-two/index.html",
+    "href": "section-two/index.html",
+    "title": "Section Two",
+    "section": "",
+    "text": "Overview of section two.",
+    "crumbs": [
+      "Section Two"
     ]
   },
   {
