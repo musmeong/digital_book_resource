@@ -1,0 +1,85 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lorem Ipsum",
+    "section": "",
+    "text": "1 Welcome\nThis is the Lorem Ipsum book.\n\nTip: Quarto only renders pages that are listed under book.chapters in _quarto.yml. Add new files there (or use a wildcard) if you want them to appear in the sidebar/nav automatically. The include above just inlines the contents; it won’t add the page to the book by itself.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>index.html</span>"
+    ]
+  },
+  {
+    "objectID": "walkthrough.html",
+    "href": "walkthrough.html",
+    "title": "2  Hello, Quarto",
+    "section": "",
+    "text": "2.1 Markdown\nMarkdown is an easy to read and write text format:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hello, Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "walkthrough.html#markdown",
+    "href": "walkthrough.html#markdown",
+    "title": "2  Hello, Quarto",
+    "section": "",
+    "text": "It’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hello, Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "walkthrough.html#code-cell",
+    "href": "walkthrough.html#code-cell",
+    "title": "2  Hello, Quarto",
+    "section": "2.2 Code Cell",
+    "text": "2.2 Code Cell\nHere is a Python code cell:\n\nimport os\nos.cpu_count()\n\n16",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hello, Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "walkthrough.html#equation",
+    "href": "walkthrough.html#equation",
+    "title": "2  Hello, Quarto",
+    "section": "2.3 Equation",
+    "text": "2.3 Equation\nUse LaTeX to write equations:\n\\[\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n\\]\nWell well well\n\nimport pandas as np\nimport numpy as pd",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Hello, Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "section-one/details.html",
+    "href": "section-one/details.html",
+    "title": "4  Wadidaw",
+    "section": "",
+    "text": "Aduh",
+    "crumbs": [
+      "Section One",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Wadidaw</span>"
+    ]
+  },
+  {
+    "objectID": "section-two/intro.html",
+    "href": "section-two/intro.html",
+    "title": "5  Wadidaw",
+    "section": "",
+    "text": "Aduh",
+    "crumbs": [
+      "Section Two",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Wadidaw</span>"
+    ]
+  },
+  {
+    "objectID": "section-two/details.html",
+    "href": "section-two/details.html",
+    "title": "6  Wadidaw",
+    "section": "",
+    "text": "Aduh",
+    "crumbs": [
+      "Section Two",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Wadidaw</span>"
+    ]
+  }
+]
