@@ -3,10 +3,22 @@
   output-dir: ../_site/loremipsum
 
 book:
-  title: Lorem Ipsum
+  title: "Belajar Statistika"
+  author: "Muhamad Mustain"
+  cover-image: cover.png
   site-url: https://muhamadmusta.in/book/loremipsum
+  repo-url: https://github.com/musmeong/digital_book_resource/tree/main/loremipsum
+  repo-branch: master
+  repo-actions: [edit]
+  sharing: [twitter, facebook, linkedin]
+  page-footer: 
+    left: "Copyright 2026, Muhamad Mustain"
+    right: 
+      - icon: github
+        href: https://github.com/musmeong
   chapters:
     - index.qmd
+    - preface.qmd
     - walkthrough.qmd
     - part: section-one/index.qmd
       chapters:
@@ -17,9 +29,10 @@ book:
         - section-two/intro.qmd
         - section-two/details.qmd
 
-number-sections: true
-number-depth: 3
-
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: cyborg
+    code-fold: true
+    code-summary: "Show the code"
