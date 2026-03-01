@@ -20,3 +20,5 @@ book:
 format:
   html:
     theme: cosmo
+    number-sections: true
+    number-depth: 3
