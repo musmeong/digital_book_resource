@@ -8,11 +8,11 @@ book:
   chapters:
     - index.qmd
     - walkthrough.qmd
-    - part: Section One
+    - part: section-one/index.qmd
       chapters:
         - section-one/intro.qmd
         - section-one/details.qmd
-    - part: Section Two
+    - part: section-two/index.qmd
       chapters:
         - section-two/intro.qmd
         - section-two/details.qmd
