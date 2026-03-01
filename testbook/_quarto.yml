@@ -1,0 +1,13 @@
+﻿project:
+  type: book
+  output-dir: ../_site/testbook
+
+book:
+  title: Test Book
+  site-url: https://muhamadmusta.in/book/testbook
+  chapters:
+    - index.qmd
+
+format:
+  html:
+    theme: cosmo
