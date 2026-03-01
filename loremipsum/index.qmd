@@ -2,4 +2,4 @@
 
 This is the Lorem Ipsum book.
 
-```{include="walkthrough.qmd"}
+> **Tip:** Quarto only renders pages that are listed under `book.chapters` in `_quarto.yml`. Add new files there (or use a wildcard) if you want them to appear in the sidebar/nav automatically. The `include` above just inlines the contents; it won’t add the page to the book by itself.

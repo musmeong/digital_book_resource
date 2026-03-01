@@ -8,6 +8,8 @@ book:
   chapters:
     - index.qmd
     - walkthrough.qmd
+    - "section-one/*.qmd"
+    - "section-two/*.qmd"
 
 format:
   html:
