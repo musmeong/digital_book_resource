@@ -1,0 +1,7 @@
+﻿services:
+  books:
+    build: .
+    container_name: books
+    restart: unless-stopped
+    ports:
+      - "8080:80"
