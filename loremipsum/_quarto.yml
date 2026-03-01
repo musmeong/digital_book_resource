@@ -1,0 +1,13 @@
+﻿project:
+  type: book
+  output-dir: ../_site/loremipsum
+
+book:
+  title: Lorem Ipsum
+  site-url: https://muhamadmusta.in/book/loremipsum
+  chapters:
+    - index.qmd
+
+format:
+  html:
+    theme: cosmo

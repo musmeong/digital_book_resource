@@ -1,0 +1,13 @@
+﻿project:
+  type: book
+  output-dir: ../_site/portfoliooptimization
+
+book:
+  title: Portfolio Optimization
+  site-url: https://muhamadmusta.in/book/portfoliooptimization
+  chapters:
+    - index.qmd
+
+format:
+  html:
+    theme: cosmo
