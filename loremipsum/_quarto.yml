@@ -17,8 +17,9 @@ book:
         - section-two/intro.qmd
         - section-two/details.qmd
 
+number-sections: true
+number-depth: 3
+
 format:
   html:
     theme: cosmo
-    number-sections: true
-    number-depth: 3
