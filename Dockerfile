@@ -1,7 +1,7 @@
 ﻿FROM ghcr.io/quarto-dev/quarto AS builder
 WORKDIR /books
 COPY . .
-RUN quarto render portfoliooptimization/
+RUN chmod +x build_books.sh && ./build_books.sh
 
 FROM nginx:alpine
 COPY --from=builder /books/_site /usr/share/nginx/html/book
