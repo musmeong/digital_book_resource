@@ -1,6 +1,4 @@
----
-title: "Hello, Quarto"
----
+# Hello, Quarto {.unnumbered}
 
 ## Markdown
 

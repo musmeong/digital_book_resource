@@ -20,6 +20,7 @@ book:
     - index.qmd
     - preface.qmd
     - walkthrough.qmd
+    - interactivity.qmd
     - part: section-one/index.qmd
       chapters:
         - section-one/intro.qmd
